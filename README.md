@@ -1,16 +1,49 @@
-## Hi there 👋
+# Min Hyuk Lee
 
-<!--
-**lawoflargenumber/lawoflargenumber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 기술 스택
 
-Here are some ideas to get you started:
+-   **프로그래밍 언어**: Python, Java, SQL, R
+-   **데이터 분석**: Pandas, Numpy, Matplotlib, Seaborn, Sckit-learn, Pytorch, LangGraph
+-   **백엔드**: Kafka, Spring, Spring-boot, Fast-API
+-   **클라우드**: Azure
+-   **DevOps**: Docker, Kubernetes, Github Actions
+-   **버전관리**: Git
+-   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 프로젝트 경험
+
+### 💬 마케터를 위한, 채팅 기반 데이터 분석·시장조사·기획 AI 서비스 (2025)
+
+-   **역할**: 백엔드(Spring WebFlux & FastAPI), AI(Text-to-Sql 에이전트, 오케스트레이터 에이전트), 클라우드(Azure), DevOps(CICD 파이프라인)
+-   **개요**: 데이터 조회가 어려운 마케터를 위해 Text-to-SQL, 뷰티 유튜버 트렌드 지식 DB, 외부 검색 툴을 결합한 채팅 기반 AI 서비스를 개발했습니다. 사용자의 모호한 요청에도 재질문 노드를 통해 기획을 완성하고, 대화의 맥락을 활용해 프롬프트를 증강하여 구체적인 기획안을 제안하도록 설계했습니다.
+-   **성과**:
+    -   여러 AI 에이전트를 조합하여 엔드투엔드 서비스 설계 및 구현
+    -   에이전트 오케스트레이션을 통한 사용자 경험 및 대화 흐름 설계
+    -   마케팅 도메인 문제 해결 과정에서 사용자 요구 분석 및 기술 사양 구체화 역량 향상
+
+### 🎮 카카오게임즈 산학협력 고객이탈 분석 (2022-2023)
+
+-   **역할**: 기존 연구 조사, EDA, 전처리, 모델링 
+-   **개요**: 실시간으로 이탈 위험을 감지하기 위해 로그 데이터 가공 처리를 최소화하고, 유저 행동 로그를 순차적으로 나열한 시퀀스 데이터를 Feature로 활용하는 Transformer 모델을 적용했습니다.
+-   **성과**:
+    -   기존 XGBoost 모델 대비 Weighted F1 score 0.088, Recall 0.149 향상
+    -   비즈니스 요구사항을 고려한 모델 설계 및 최적화 경험
+    -   Transformer 모델 아키텍처 이해 및 시퀀스 데이터 적용 경험
+
+### 🩺 대사증후군 예측 관련 연구 주제 발굴 및 Multi-task 모델 (2023)
+
+-   **역할**: 아이디어 발굴, 모델링, 결과 해석
+-   **개요**: 기존 모델이 비만 집단에 편중되어 소수 집단 예측 성능이 낮은 문제를 발견하고, 대사증후군의 5가지 개별 요소를 함께 예측하는 Multi-task 모델을 제안하여 문제를 해결했습니다.
+-   **성과**:
+    -   SCI 논문 게재
+    -   단순 지표를 넘어 다양한 각도로 문제를 재정의하는 분석 역량 함양
+    -   Multi-task Learning 모델을 실제 문제에 적용 및 성능 개선
+
+### 📚 AI 기반 자동 출간 서비스 개발 (MSA & LLM 활용) (2025)
+
+-   **역할**: AI 서버 구축, CI/CD 파이프라인 구축, 백엔드-프론트엔드 연결
+-   **개요**: MSA 환경에서 사용자가 콘텐츠 출간을 결정하면 OpenAI API를 활용해 요약 및 커버 이미지를 자동으로 생성하는 AI 서버를 구축했습니다. 대용량 API 호출을 비동기 처리하고, 서비스별 독립적인 CI/CD 파이프라인을 구축하여 개발 생산성을 높였습니다.
+-   **성과**:
+    -   MSA 기반의 서비스 설계 및 AI 서버 구축 경험
+    -   클라우드 기반 AI API 활용 및 비동기 처리 경험
+    -   CI/CD 파이프라인 구축을 통한 배포 자동화 경험
