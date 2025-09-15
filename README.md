@@ -4,7 +4,7 @@
 
 -   **프로그래밍 언어**: Python, Java, SQL, R
 -   **데이터 분석**: Pandas, Numpy, Matplotlib, Seaborn, Sckit-learn, Pytorch, LangGraph
--   **백엔드**: Kafka, Spring, Spring-boot, Fast-API
+-   **백엔드**: Kafka, Spring, Spring-boot, SpringWebFlux Fast-API
 -   **클라우드**: Azure
 -   **DevOps**: Docker, Kubernetes, Github Actions
 -   **버전관리**: Git
