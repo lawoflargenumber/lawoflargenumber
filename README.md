@@ -13,7 +13,8 @@
 ## 💻 프로젝트 경험
 
 ### 💬 마케터를 위한, 채팅 기반 데이터 분석·시장조사·기획 AI 서비스 (2025)
-
+[FastAPI 서버 Repo](https://github.com/MarketingAiAgent/ai)    \
+[Spring WebFlux 서버 Repo](https://github.com/lawoflargenumber/minti-backend2)
 -   **역할**: 백엔드(Spring WebFlux & FastAPI), AI(Text-to-Sql 에이전트, 오케스트레이터 에이전트), 클라우드(Azure), DevOps(CICD 파이프라인)
 -   **개요**: 데이터 조회가 어려운 마케터를 위해 Text-to-SQL, 뷰티 유튜버 트렌드 지식 DB, 외부 검색 툴을 결합한 채팅 기반 AI 서비스를 개발했습니다. 사용자의 모호한 요청에도 재질문 노드를 통해 기획을 완성하고, 대화의 맥락을 활용해 프롬프트를 증강하여 구체적인 기획안을 제안하도록 설계했습니다.
 -   **성과**:
@@ -40,7 +41,7 @@
     -   Multi-task Learning 모델을 실제 문제에 적용 및 성능 개선
 
 ### 📚 AI 기반 자동 출간 서비스 개발 (MSA & LLM 활용) (2025)
-
+[백엔드 서버 Repo](https://github.com/lawoflargenumber/creator-platform)
 -   **역할**: AI 서버 구축, CI/CD 파이프라인 구축, 백엔드-프론트엔드 연결
 -   **개요**: MSA 환경에서 사용자가 콘텐츠 출간을 결정하면 OpenAI API를 활용해 요약 및 커버 이미지를 자동으로 생성하는 AI 서버를 구축했습니다. 대용량 API 호출을 비동기 처리하고, 서비스별 독립적인 CI/CD 파이프라인을 구축하여 개발 생산성을 높였습니다.
 -   **성과**:
